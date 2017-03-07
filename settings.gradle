@@ -1,0 +1,5 @@
+rootProject.name = 'springCloudDemo'
+include 'site'
+include 'service'
+include 'common'
+
